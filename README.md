@@ -1,2 +1,3 @@
-# headless-scripts
-Escaping those keystrokes and browser tabs.
+# Utopian Scripts
+
+Escape those keystrokes and browser tabs.
